@@ -1,5 +1,5 @@
 # Where should we write the GIF?
-Output gifs/banner.gif
+Output ../gifs/banner.gif
 
 # Set up a 1200x600 terminal with 46px font.
 Set FontSize 46
@@ -49,32 +49,3 @@ Backspace@10ms 12
 Backspace@10ms 26
 
 Sleep 2
-
-# Backspace@10ms 30
-# Type " love to automate everything"
-
-# Sleep 3
-
-# Backspace@10ms 46
-# Type "./list-core-skills.sh"
-# Enter
-# Sleep 3
-# Space
-# Down
-# Sleep 3
-# Space
-# Down
-# Sleep 3
-# Space
-# Down
-# Sleep 3
-# Space
-# Sleep 2
-# Enter
-
-# # Admire the output for a bit.
-# Sleep 10
-
-# Type "reset banner.gif"
-
-# Sleep 2
