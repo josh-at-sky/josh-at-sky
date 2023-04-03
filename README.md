@@ -2,7 +2,6 @@
 
 ![Banner](src/gifs/banner.gif)
 
-\
 Below are some of the technologies and tools I am passionate about and/or use on a daily basis.
 <!--
 Images downloaded from https://simpleicons.org 
