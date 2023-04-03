@@ -4,7 +4,7 @@ Output ../gifs/banner.gif
 # Set up a 1200x600 terminal with 46px font.
 Set FontSize 46
 Set Width 2100
-Set Height 200
+Set Height 400
 Set PlaybackSpeed 1.0
 Set TypingSpeed 50ms
 Set Framerate 24
@@ -14,7 +14,16 @@ Type "Hi, my name is Josh! I'm an Associate SRE at Sky UK 🌎 📡"
 Sleep 3
 
 Backspace 27
-Type " big fan of automation"
+
+Type " big believer in simple solutions \"
+Enter
+Type "to complex problems"
+
+Sleep 3
+
+Ctrl+C
+
+Type "I'm a big fan of automation"
 Sleep 1000ms
 Type " and..."
 Sleep 1000ms
@@ -40,12 +49,12 @@ Backspace@10ms 9
 Type "security"
 Sleep 500ms
 Backspace@10ms 8
-Type "all the latest technology"
+Type "all of the latest technologies"
 
 Sleep 2
 
-Backspace@10ms 25
-Backspace@10ms 12
-Backspace@10ms 26
+Ctrl+C
 
-Sleep 2
+Type "./reset-banner.sh"
+
+Sleep 1
