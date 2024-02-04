@@ -62,6 +62,8 @@ Images from https://simpleicons.org
     alt="Neovim">
 ](https://neovim.io/)
 
+and
+
 [<img 
     src="https://img.shields.io/badge/-Github...of%20course...-181717?logo=github&logoColor=white&style=flat"
     alt="K6">
