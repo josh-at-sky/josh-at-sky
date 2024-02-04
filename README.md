@@ -1,5 +1,3 @@
-# josh-at-sky's GitHub Profile
-
 ![Banner](src/gifs/banner.gif)
 \
 \
