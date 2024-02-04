@@ -20,7 +20,7 @@ Images from https://simpleicons.org
     alt="AWS">
 ](https://aws.amazon.com/)
 [<img
-    src="https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=black&style=flat"
     alt="AWS Lambda">
 ](https://aws.amazon.com/lambda/)
 [<img 
@@ -36,7 +36,7 @@ Images from https://simpleicons.org
     alt="Pulumi">
 ](https://www.pulumi.com/)
 [<img 
-    src="https://img.shields.io/badge/-Fargate-FF9900?logo=awsfargate&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/-Fargate-FF9900?logo=awsfargate&logoColor=black&style=flat"
     alt="AWS Fargate">
 ](https://aws.amazon.com/fargate/)
 [<img 
@@ -52,7 +52,7 @@ Images from https://simpleicons.org
     alt="htmx">
 ](https://htmx.org/)
 [<img 
-    src="https://img.shields.io/badge/-Arc%20Browser-FCBFBD?logo=arc&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/-Arc%20Browser-FCBFBD?logo=arc&logoColor=black&style=flat"
     alt="Arc">
 ](https://arc.net/)
 [<img 
