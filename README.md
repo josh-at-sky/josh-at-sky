@@ -5,6 +5,8 @@
 Below are some of the technologies and tools I am passionate about and/or use on a daily basis.
 
 <!--
+Badges following https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6bhttps://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+
 Structure of badge code
 [<img 
     src="https://img.shields.io/badge/-<TEXT%20ON%20BADGE>-<COLOUR_CODE>?logo=<NAME_OF_THE_ICON_LOWERCASED>[&logoColor=<LOGO_COLOUR>]&style=flat">
@@ -20,7 +22,7 @@ Images from https://simpleicons.org
     alt="AWS">
 ](https://aws.amazon.com/)
 [<img
-    src="https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=black&style=flat"
+    src="https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=white&style=flat"
     alt="AWS Lambda">
 ](https://aws.amazon.com/lambda/)
 [<img 
@@ -36,7 +38,7 @@ Images from https://simpleicons.org
     alt="Pulumi">
 ](https://www.pulumi.com/)
 [<img 
-    src="https://img.shields.io/badge/-Fargate-FF9900?logo=awsfargate&logoColor=black&style=flat"
+    src="https://img.shields.io/badge/-Fargate-FF9900?logo=awsfargate&logoColor=white&style=flat"
     alt="AWS Fargate">
 ](https://aws.amazon.com/fargate/)
 [<img 

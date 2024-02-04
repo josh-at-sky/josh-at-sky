@@ -13,26 +13,27 @@ Set Framerate 24
 Type "./load-github-banner.sh"
 Enter
 
-Sleep 10
+Sleep 20
 
 Type "./list-skills.sh"
-Sleep 2
+Sleep 4
 Enter
-Sleep 1
+Sleep 3
 Space
 Down
-Sleep 1
+Sleep 3
 Space
 Down
-Sleep 1
+Sleep 3
 Space
 Down
-Sleep 1
+Sleep 3
 Space
-Sleep 1
+Sleep 3
 Enter
 
-Sleep 10
+Sleep 20
 
 Type "clear"
+Sleep 3
 Enter
