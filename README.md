@@ -24,6 +24,7 @@ Images from https://simpleicons.org
 [![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat)](https://neovim.io/)
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)](https://svelte.dev/)
 [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)](https://openai.com/)
+[![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white&style=flat)](https://podman.io/)
 [![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white&style=flat)](https://miro.com/)
 [![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white&style=flat)](https://snyk.io/)
 [![Arm](https://img.shields.io/badge/-Arm-0091BD?logo=arm&logoColor=white&style=flat)](https://arm.com/)
